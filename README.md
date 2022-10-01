@@ -1,6 +1,6 @@
 - 👋 Hi, pals! I'm André and I'm a Tech Sourcer!
 - 🤖 Mostly looking for talent for _Data, Cloud & Security_
-- <iframe src="https://giphy.com/embed/L0VPYNJTE8mONvdAJe" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/rockstargames-gta-trilogy-gtatrilogy-L0VPYNJTE8mONvdAJe">via GIPHY</a></p>
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 <!--
 **andrefmmartins/andrefmmartins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
