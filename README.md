@@ -4,10 +4,13 @@
 
 
 ### Find me around the web!
-- 🧐 [LinkedIn](https://www.linkedin.com/in/andréfmmartins/)
-- 🤖 [GitHub](https://github.com/andrefmmartins)
-- 🦆 [Kaggle](https://www.kaggle.com/andrefmmartins)
-- 🎮 [Steam](https://steamcommunity.com/id/dragonforcept/)
+🧐 [LinkedIn](https://www.linkedin.com/in/andréfmmartins/)
+
+🤖 [GitHub](https://github.com/andrefmmartins)
+
+🦆 [Kaggle](https://www.kaggle.com/andrefmmartins)
+
+🎮 [Steam](https://steamcommunity.com/id/dragonforcept/)
 
 
 <p align="center">
