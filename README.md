@@ -2,6 +2,13 @@
 - 🤖 Mostly looking for talent for _Data, Cloud & Security_
 
 
+### Find me around the web!
+🧐 LinkedIn: https://www.linkedin.com/in/andréfmmartins/
+🤖 GitHub: https://github.com/andrefmmartins
+🦆 Kaggle: https://www.kaggle.com/andrefmmartins
+🎮 Steam: https://steamcommunity.com/id/dragonforcept/
+
+
 
 ![Alt Text](https://media.giphy.com/media/L0VPYNJTE8mONvdAJe/giphy.gif)
 
