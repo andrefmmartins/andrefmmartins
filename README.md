@@ -1,4 +1,4 @@
-- 👋 Hi, pals! I'm André and I'm a Tech Sourcer!
+# 👋 Hi, pals! I'm André and I'm a Tech Sourcer!
 - 🤖 Mostly looking for talent for _Data, Cloud & Security_
 
 
