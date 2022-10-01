@@ -3,14 +3,8 @@
 - Mostly looking for talent for _Data, Cloud & Security_
 
 
-### Find me around the web!
-🧐 [LinkedIn](https://www.linkedin.com/in/andréfmmartins/)
-
-🤖 [GitHub](https://github.com/andrefmmartins)
-
-🦆 [Kaggle](https://www.kaggle.com/andrefmmartins)
-
-🎮 [Steam](https://steamcommunity.com/id/dragonforcept/)
+### Find me around the web!🌍
+Of course, I'm on 🧐 [LinkedIn](https://www.linkedin.com/in/andréfmmartins/) as one of my main sourcing tools. Simultanesously, I'm on 🤖 [GitHub](https://github.com/andrefmmartins) and 🦆 [Kaggle](https://www.kaggle.com/andrefmmartins). As a gamer (not as much as in the past), I'm on 🎮 [Steam](https://steamcommunity.com/id/dragonforcept/) where I like to engage with friends and people mostly around Football Manager (FM2020), Counter-Strike Global Offensive (CS:GO), and Town of Salem (ToS). 
 
 
 <p align="center">
