@@ -3,7 +3,7 @@
 
 
 ### Find me around the web!
-🧐 LinkedIn: https://www.linkedin.com/in/andréfmmartins/
+🧐 [LinkedIn](https://www.linkedin.com/in/andréfmmartins/)
 
 🤖 GitHub: https://github.com/andrefmmartins
 
