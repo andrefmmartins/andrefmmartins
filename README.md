@@ -1,4 +1,4 @@
-# 👋 Hi, pals! I'm André and I'm a Tech Sourcer!
+# 👋 Hi, pals! I'm André and I'm a Tech Talent Sourcer!
 - Working for the largest eCommerce platform in Africa!
 - Mostly looking for talent for _Software Engineering, Data, Cloud & Security_
 
