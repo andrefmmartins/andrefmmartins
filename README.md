@@ -1,4 +1,4 @@
-# 👋 Hi, pals! I'm André and I'm a Tech Talent Sourcer!
+# 👋 Hello! I'm André, and I'm a Tech Talent Sourcer!
 - Currently working for the largest eCommerce platform in Africa!
 - Mostly looking for talent for _Software Engineering, Data, Cloud & Security_
 - XP in topics around tech hiring, campus management strategy (internships in tech) and HR analytics
@@ -10,9 +10,6 @@ Of course, I'm on 🧐 [LinkedIn](https://www.linkedin.com/in/andremeiramartins/
 [![André Martins profile views](https://u8views.com/api/v1/github/profiles/114821834/views/day-week-month-total-count.svg)](https://u8views.com/github/andrefmmartins)
 
 
-<p align="center">
-<img width="460" height="300" src="https://media.giphy.com/media/L0VPYNJTE8mONvdAJe/giphy.gif">
-</p>
 
 
 <!--
