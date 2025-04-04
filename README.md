@@ -4,9 +4,31 @@
 - XP on topics related to tech hiring, campus management strategy (internships in tech) and HR analytics
 
 
-### Find me around the web!🌍
-Of course, I'm on 🧐 [LinkedIn](https://www.linkedin.com/in/andremeiramartins/) as one of my main sourcing tools. Simultaneously, I'm also on 🦆 [Kaggle](https://www.kaggle.com/andrefmmartins). As a gamer (not as much as in the past), I'm on 🎮 [Steam](https://steamcommunity.com/id/dragonforcept/) where I like to engage with friends and people mostly around amazing games like Football Manager (FM2020 version), Counter-Strike Global Offensive (CS:GO), and Town of Salem (ToS).
+### 🌍 Find me around the web!
 
+<div display="flex">
+  <a href="https://www.linkedin.com/in/andremeiramartins/">
+     </a>
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.kaggle.com/andrefmmartins">
+     </a>
+    <img src="https://img.shields.io/badge/Kaggle-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
+  <a href="https://steamcommunity.com/id/dragonforcept/">
+     </a>
+    <img src="https://img.shields.io/badge/steam-12100E?style=for-the-badge&logo=steam&logoColor=white" alt="steam"/>
+  </a>
+</div>
+
+
+### 🎮 Gaming
+
+<div display="flex">
+  <img src="https://img.shields.io/badge/Football Manager (FM2020 version)-2F3134?style=for-the-badge&logo=footballmanager&logoColor=white" alt="Football Manager (FM2020 version)"/>
+  <img src="https://img.shields.io/badge/Counter Strike 2-3C3C3D?style=for-the-badge&logo=Counter Strike&logoColor=black" alt="Counter Strike"/>
+  <img src="https://img.shields.io/badge/Town of Salem-%23FF9A00.svg?style=for-the-badge&logo=Town of Salem&logoColor=white" alt="Town of Salem"/>
+</div>
+
+🙌
 [![André Martins profile views](https://u8views.com/api/v1/github/profiles/114821834/views/day-week-month-total-count.svg)](https://u8views.com/github/andrefmmartins)
 
 
