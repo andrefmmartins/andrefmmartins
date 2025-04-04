@@ -1,7 +1,7 @@
 # 👋 Hi, pals! I'm André and I'm a Tech Talent Sourcer!
 - Currently working for the largest eCommerce platform in Africa!
 - Mostly looking for talent for _Software Engineering, Data, Cloud & Security_
-- XP in topics around campus management strategy (internships in tech), tech hiring and HR analytics
+- XP in topics around tech hiring, campus management strategy (internships in tech) and HR analytics
 
 
 ### Find me around the web!🌍
