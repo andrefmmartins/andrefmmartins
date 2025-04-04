@@ -20,7 +20,7 @@
 ### 🎮 Gaming
 
 <div display="flex">
-  <img src="https://img.shields.io/badge/Football Manager (FM2020 version)-2F3134?style=for-the-badge&logo=footballmanager&logoColor=white" alt="Football Manager (FM2020 version)"/>
+  <img src="https://img.shields.io/badge/Football Manager-2F3134?style=for-the-badge&logo=footballmanager&logoColor=white" alt="Football Manager"/>
   <img src="https://img.shields.io/badge/Counter Strike 2-3C3C3D?style=for-the-badge&logo=Counter Strike&logoColor=black" alt="Counter Strike"/>
   <img src="https://img.shields.io/badge/Town of Salem-%23FF9A00.svg?style=for-the-badge&logo=Town of Salem&logoColor=white" alt="Town of Salem"/>
 </div>
