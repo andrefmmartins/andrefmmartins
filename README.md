@@ -8,13 +8,10 @@
 
 <div display="flex">
   <a href="https://www.linkedin.com/in/andremeiramartins/">
-     </a>
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   <a href="https://www.kaggle.com/andrefmmartins">
-     </a>
     <img src="https://img.shields.io/badge/Kaggle-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
   <a href="https://steamcommunity.com/id/dragonforcept/">
-     </a>
     <img src="https://img.shields.io/badge/steam-12100E?style=for-the-badge&logo=steam&logoColor=white" alt="steam"/>
   </a>
 </div>
