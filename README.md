@@ -1,10 +1,11 @@
 # 👋 Hi, pals! I'm André and I'm a Tech Talent Sourcer!
-- Working for the largest eCommerce platform in Africa!
+- Currently working for the largest eCommerce platform in Africa!
 - Mostly looking for talent for _Software Engineering, Data, Cloud & Security_
+- XP in topics around campus management strategy (internships in tech), tech hiring and HR analytics
 
 
 ### Find me around the web!🌍
-Of course, I'm on 🧐 [LinkedIn](https://www.linkedin.com/in/andremeiramartins/) as one of my main sourcing tools. Simultaneously, I'm also on 🦆 [Kaggle](https://www.kaggle.com/andrefmmartins). As a gamer (not as much as in the past), I'm on 🎮 [Steam](https://steamcommunity.com/id/dragonforcept/) where I like to engage with friends and people mostly around amazing games like Football Manager (FM2020), Counter-Strike Global Offensive (CS:GO), and Town of Salem (ToS).
+Of course, I'm on 🧐 [LinkedIn](https://www.linkedin.com/in/andremeiramartins/) as one of my main sourcing tools. Simultaneously, I'm also on 🦆 [Kaggle](https://www.kaggle.com/andrefmmartins). As a gamer (not as much as in the past), I'm on 🎮 [Steam](https://steamcommunity.com/id/dragonforcept/) where I like to engage with friends and people mostly around amazing games like Football Manager (FM2020 version), Counter-Strike Global Offensive (CS:GO), and Town of Salem (ToS).
 
 
 <p align="center">
